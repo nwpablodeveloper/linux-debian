@@ -30,7 +30,9 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Cancela el comando en ejecución</td>
         </tr>
         <tr>
-            <td colspan="2" align="center"></td>
+            <td colspan="2" align="center">
+                &nbsp;
+            </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
@@ -54,7 +56,9 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Muestra el contenido del directorio que estamos</td>
         </tr>
         <tr>
-            <td colspan="2" align="center"></td>
+            <td colspan="2" align="center">
+                &nbsp;
+            </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
@@ -82,7 +86,9 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Retrocedemos 2 directorios</td>
         </tr>
         <tr>
-            <td colspan="2" align="center"></td>
+            <td colspan="2" align="center">
+                &nbsp;
+            </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
@@ -94,7 +100,9 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Nos lleva al usuario de administrador ( require contraseña del sistema )</td>
         </tr>
         <tr>
-            <td colspan="2" align="center"></td>
+            <td colspan="2" align="center">
+                &nbsp;
+            </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
@@ -110,7 +118,9 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Muestra el estado de la RAM</td>
         </tr>
         <tr>
-            <td colspan="2" align="center"></td>
+            <td colspan="2" align="center">
+                &nbsp;
+            </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
@@ -126,7 +136,9 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Instala el paquete requerido</td>
         </tr>
         <tr>
-            <td colspan="2" align="center"></td>
+            <td colspan="2" align="center">
+                &nbsp;
+            </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
