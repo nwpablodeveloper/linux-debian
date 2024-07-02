@@ -61,8 +61,14 @@ el usuario "root" es el usuario administrador del sistema por defecto
 El comando apt nos sirve para buscar librerias que no temos instaladas en el Sistema
 - [apt search "nombre-paquete"]()
     * Busca si el paquete esta diponible
+    > Ej: apt search htop
+- [apt install "nombre-paqute"]()
+    > apt install htop
 
     
 ### [Comandos para visualizar Sofware]()
-- [htop]()
+- [top]()
     * Nos muestra dinamicamente todos los procesos activos
+- [htop]()
+    * apt install htop
+    * Nos muestra dinamicamente todos los procesos activos de forma mas detallada
