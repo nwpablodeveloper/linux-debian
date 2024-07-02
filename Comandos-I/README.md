@@ -19,7 +19,7 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 <table>
     <tbody>
         <tr>
-            <td colspan="2" align="center">COMANDOS IMPORTANES</td>
+            <td colspan="2">COMANDOS IMPORTANES</td>
         </tr>
         <tr>
             <td>Comando</td>
@@ -30,12 +30,12 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Cancela el comando en ejecución</td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 &nbsp;
             </td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 COMANDOS SIN MÉTODOS Y SIN ARGUMENTOS
             </td>
         </tr>
@@ -56,12 +56,12 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Muestra el contenido del directorio que estamos</td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 &nbsp;
             </td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 COMANDOS CON ARGUMENTOS
             </td>
         </tr>
@@ -86,12 +86,12 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Retrocedemos 2 directorios</td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 &nbsp;
             </td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 USUARIOS
             </td>
         </tr>
@@ -100,12 +100,12 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Nos lleva al usuario de administrador ( require contraseña del sistema )</td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 &nbsp;
             </td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 COMANDOS PARA VISUALIZAR HARDWARE
             </td>
         </tr>
@@ -118,12 +118,12 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Muestra el estado de la RAM</td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 &nbsp;
             </td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 INSTALAR PAQUETES CON "APT"
             </td>
         </tr>
@@ -136,12 +136,12 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Instala el paquete requerido</td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 &nbsp;
             </td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td colspan="2">
                 COMANDOS PARA VER ESTADO DEL SISTEMA
             </td>
         <tr>
