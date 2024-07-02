@@ -26,7 +26,7 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Función</td>
         </tr>
         <tr>
-            <td>Ctrl + c</td>
+            <td color="blue">Ctrl + c</td>
             <td>Cancela el comando en ejecución</td>
         </tr>
         <tr>
@@ -40,19 +40,19 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             </td>
         </tr>
         <tr>
-            <td>who</td>
+            <td color="blue">who</td>
             <td>Muestra el usuario actual, el método de conexión, fech y hora</td>
         </tr>
         <tr>
-            <td>clear</td>
+            <td color="blue">clear</td>
             <td>Limpia la terminal</td>
         </tr>
         <tr>
-            <td>date</td>
+            <td color="blue">date</td>
             <td>Muestra la fecha y hora del sistema</td>
         </tr>
         <tr>
-            <td>ls</td>
+            <td color="blue">ls</td>
             <td>Muestra el contenido del directorio que estamos</td>
         </tr>
         <tr>
@@ -66,23 +66,23 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             </td>
         </tr>
         <tr>
-            <td>ping "argumento"</td>
+            <td color="blue">ping "argumento"</td>
             <td>Envia un ping de conexión a una IP</td>
         </tr>
         <tr>
-            <td>df -h</td>
+            <td color="blue">df -h</td>
             <td>Muestra la configuración actual de las unidades de almacenamiento</td>
         </tr>
         <tr>
-            <td>cd "direcotorio"</td>
+            <td color="blue">cd "direcotorio"</td>
             <td>Accedemos al directorio</td>
         </tr>
         <tr>
-            <td>cd ..</td>
+            <td color="blue">cd ..</td>
             <td>Retrocedemos 1 directorio</td>
         </tr>
         <tr>
-            <td>cd ../..</td>
+            <td color="blue">cd ../..</td>
             <td>Retrocedemos 2 directorios</td>
         </tr>
         <tr>
@@ -96,7 +96,7 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             </td>
         </tr>
         <tr>
-            <td>su -</td>
+            <td color="blue">su -</td>
             <td>Nos lleva al usuario de administrador ( require contraseña del sistema )</td>
         </tr>
         <tr>
@@ -110,11 +110,11 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             </td>
         </tr>
         <tr>
-            <td>df -h</td>
+            <td color="blue">df -h</td>
             <td>Muestra la configuración actual de las unidades de almacenamiento</td>
         </tr>
         <tr>
-            <td>free -m</td>
+            <td color="blue">free -m</td>
             <td>Muestra el estado de la RAM</td>
         </tr>
         <tr>
@@ -128,11 +128,11 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             </td>
         </tr>
         <tr>
-            <td>apt search "nombre-paquete"</td>
+            <td color="blue">apt search "nombre-paquete"</td>
             <td>Busca la diponibilidad del paquete</td>
         </tr>
         <tr>
-            <td>apt install "nombre-paquete"</td>
+            <td color="blue">apt install "nombre-paquete"</td>
             <td>Instala el paquete requerido</td>
         </tr>
         <tr>
@@ -145,11 +145,11 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
                 COMANDOS PARA VER ESTADO DEL SISTEMA
             </td>
         <tr>
-            <td>top</td>
+            <td color="blue">top</td>
             <td>Muestra una tabla dinámica con los procesos ativos</td>
         </tr>
         <tr>
-            <td>htop</td>
+            <td color="blue">htop</td>
             <td>
                 Muestra una tabla dinámica con los proceso activos de forma detallada<br>
                 requiere --apt install htop
