@@ -17,17 +17,21 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 > nombre-usuario@nombre-compu:/$
 
 <table>
-    <th>
-        <td cols="2">Canelar</td>
-    </th>
-    <th>
-        <td>Comcando</td>
-        <td>Función</td>
-    </th>
-    <tr>
-        <td>Ctrl + c</td>
-        <td>Cancela el comando en ejecución</td>
-    </tr>
+    <thead>
+        <th>
+            <td cols="2">Comandos importantes</td>
+        </th>
+    </thead>
+    <tbody>
+        <th>
+            <td>Comcando</td>
+            <td>Función</td>
+        </th>
+        <tr>
+            <td>Ctrl + c</td>
+            <td>Cancela el comando en ejecución</td>
+        </tr>
+    </tbody>
 </table>
 
 ### [Comandos sin métodos y sin argumentos:]()
