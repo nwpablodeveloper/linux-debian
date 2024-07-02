@@ -17,12 +17,10 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 > nombre-usuario@nombre-compu:/$
 
 <table>
-    <thead>
-        <th>
-            <td colspan="2">Comandos importantes</td>
-        </th>
-    </thead>
     <tbody>
+        <tr>
+            <td colspan="2">Comandos importantes</td>
+        </tr>
         <tr>
             <td>Comando</td>
             <td>Función</td>
