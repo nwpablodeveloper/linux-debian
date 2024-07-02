@@ -19,7 +19,7 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 <table>
     <tbody>
         <tr>
-            <td colspan="2" align="center">Comandos importantes</td>
+            <td colspan="2" align="center">COMANDOS IMPORTANES</td>
         </tr>
         <tr>
             <td>Comando</td>
@@ -29,40 +29,59 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Ctrl + c</td>
             <td>Cancela el comando en ejecución</td>
         </tr>
+        <tr>
+            <td colspan="2" align="center">
+                COMANDOS SIN MÉTODOS Y SIN ARGUMENTOS
+            </td>
+        </tr>
+        <tr>
+            <td>who</td>
+            <td>Muestra el usuario actual, el método de conexión, fech y hora</td>
+        </tr>
+        <tr>
+            <td>clear</td>
+            <td>Limpia la terminal</td>
+        </tr>
+        <tr>
+            <td>date</td>
+            <td>Muestra la fecha y hora del sistema</td>
+        </tr>
+        <tr>
+            <td>ls</td>
+            <td>Muestra el contenido del directorio que estamos</td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                COMANDOS ARGUMENTOS
+            </td>
+        </tr>
+        <tr>
+            <td>ping "argumento"</td>
+            <td>Envia un ping de conexión a una IP</td>
+        </tr>
+        <tr>
+            <td>df -h</td>
+            <td>Muestra la configuración actual de las unidades de almacenamiento</td>
+        </tr>
+        <tr>
+            <td>cd "direcotorio"</td>
+            <td>Accedemos al directorio</td>
+        </tr>
+        <tr>
+            <td>cd ..</td>
+            <td>Retrocedemos 1 directorio</td>
+        </tr>
+        <tr>
+            <td>cd ../..</td>
+            <td>Retrocedemos 2 directorios</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
-### [Comandos sin métodos y sin argumentos:]()
-
-|Comando|Función|
-|-|-|
-|who        |nos muestra el usuario actual, el método de conexión, fecha y hora|
-|clear      |Limpia la terminal|
-|date       |Muestra la fecha y hora|
-|ls         |Nos muestra el contenido del directorio|
-
-### [Comandos con argumentos]()
-```
-    ping "argumento"
-    // Envia un ping de conexión a una IP
-```
-    > Ej.
-    > 
-    > ping www.google.com
-    >
-    > ping 192.168.1.1
-```
-    df -h
-    // Te muestra la configuración actual de las unidades de almacenamiento del sistema. 
-```
-```
-    cd "directorio"
-    // Accedemos al directorio
-```
-```
-    cd ..
-    // Regresamos 1 directorio
-```
 
 ### [Cambiar de usuario]()
 el usuario "root" es el usuario administrador del sistema por defecto
