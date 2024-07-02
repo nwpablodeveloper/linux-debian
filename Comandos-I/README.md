@@ -16,7 +16,9 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 > Ejemplo del prompt
 > nombre-usuario@nombre-compu:/$
 
-```Ctrl + C]```
+```linux
+    Ctrl + C
+```
     * Cancela el comando en ejecución. 
 
 ### [Comandos sin métodos y sin argumentos:]()
