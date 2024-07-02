@@ -16,31 +16,18 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 > Ejemplo del prompt
 > nombre-usuario@nombre-compu:/$
 
-```linux
-    Ctrl + C
-    // Cancela el comando en ejecución. 
-```
+|Comando|Función|
+|-|-|
+|Ctrl + c | Cancela el comando en ejeción|
 
 ### [Comandos sin métodos y sin argumentos:]()
-```
-    who
-    /*
-        Nos trae el usuario actual del sistema, el método de conexión que se esta usando
-        y la fecha y hora
-    */
-```
-```
-    clear
-    // Limpia la termainal.
-```
-```
-    date
-    // Muestra la fecha y hora actual
-```
-```
-    ls
-    // Nos muestra el directorio actual
-```
+
+|Comando|Función|
+|-|-|
+|who        |nos muestra el usuario actual, el método de conexión, fecha y hora|
+|clear      |Limpia la terminal|
+|date       |Muestra la fecha y hora|
+|ls         |Nos muestra el contenido del directorio|
 
 ### [Comandos con argumentos]()
 ```
