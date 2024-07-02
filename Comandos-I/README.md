@@ -19,14 +19,14 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 <table>
     <thead>
         <th>
-            <td cols="2">Comandos importantes</td>
+            <td colspan="2">Comandos importantes</td>
         </th>
     </thead>
     <tbody>
-        <th>
-            <td>Comcando</td>
+        <tr>
+            <td>Comando</td>
             <td>Función</td>
-        </th>
+        </tr>
         <tr>
             <td>Ctrl + c</td>
             <td>Cancela el comando en ejecución</td>
