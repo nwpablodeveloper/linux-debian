@@ -16,59 +16,59 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 > Ejemplo del prompt
 > nombre-usuario@nombre-compu:/$
 
-- [Ctrl + C]() 
+```Ctrl + C]```
     * Cancela el comando en ejecución. 
 
 ### [Comandos sin métodos y sin argumentos:]()
-- [who]()
+```who```
     * Nos trae el usuario actual del sistema, el método de conexión que se esta usando
      y la fecha y hora
-- [clear]()
+```clear```
     * Limpia la termainal.
-- [date]()
+```date```
     * Muestra la fecha y hora actual
-- [ls]()
+```ls```
     * Nos muestra el directorio actual
 
 ### [Comandos con argumentos]()
-- [ping "argumento"]()
+```ping "argumento"```
     > Ej.
     > 
     > ping www.google.com
     >
     > ping 192.168.1.1
-- [df -h]()
+```df -h```
     * Te muestra la configuración actual de las unidades de almacenamiento del sistema. 
-- [cd "directorio"]()
+```cd "directorio"```
     * Accedemos al directorio
-- [cd ..]()
+```cd ..```
     * Regresamos 1 directorio
 
 ### [Cambiar de usuario]()
 el usuario "root" es el usuario administrador del sistema por defecto
-- [su -]()
+```su -```
     1. Nos va a pedir la contraseña con la que instalamos Linux
     2. el prompt va a tener root@nombre-compu:~# (~# nos indica que somos administrador)
 
 ### [Comandos para visualizar Hardware]()
 
-- [df -h]()
+```df -h```
     * Te muestra la configuración actual de las unidades de almacenamiento del sistema. 
-- [free -m]()
+```free -m```
     * Te muestra el estado de la RAM
 
 ### [Instalar paquetes con APT]()
 El comando apt nos sirve para buscar librerias que no temos instaladas en el Sistema
-- [apt search "nombre-paquete"]()
+```apt search "nombre-paquete"```
     * Busca si el paquete esta diponible
     > Ej: apt search htop
-- [apt install "nombre-paqute"]()
+```apt install "nombre-paqute"```
     > apt install htop
 
     
 ### [Comandos para visualizar Sofware]()
-- [top]()
+```top```
     * Nos muestra dinamicamente todos los procesos activos
-- [htop]()
+```htop```
     * apt install htop
     * Nos muestra dinamicamente todos los procesos activos de forma mas detallada
