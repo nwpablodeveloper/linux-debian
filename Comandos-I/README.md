@@ -16,9 +16,19 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 > Ejemplo del prompt
 > nombre-usuario@nombre-compu:/$
 
-|Comando|Función|
-|-|-|
-|Ctrl + c | Cancela el comando en ejeción|
+<table>
+    <th>
+        <td cols="2">Canelar</td>
+    </th>
+    <th>
+        <td>Comcando</td>
+        <td>Función</td>
+    </th>
+    <tr>
+        <td>Ctrl + c</td>
+        <td>Cancela el comando en ejecución</td>
+    </tr>
+</table>
 
 ### [Comandos sin métodos y sin argumentos:]()
 
