@@ -19,7 +19,7 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 ```linux
     Ctrl + C
 ```
-    * Cancela el comando en ejecución. 
+- Cancela el comando en ejecución. 
 
 ### [Comandos sin métodos y sin argumentos:]()
 ```who```
