@@ -14,7 +14,8 @@ Su función principal es interactuar en entre el usuario.
 Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el signo
 (Dolar) en la terminal Shell.
 
-- Ctrl + C = Cancela el comando en ejecución. 
+- [Ctrl + C]() 
+    * Cancela el comando en ejecución. 
 
 ### Comandos sin métodos y sin argumentos:
 - [who]()
@@ -24,12 +25,17 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
     * Limpia la termainal.
 - [date]
     * Muestra la fecha y hora actual
+- [ls]()
+    * Nos muestra el directorio actual
 
 ### Comandos con argumentos
-- [ping] <<argumento>>
+- [ping "argumento"]()
     > Ej.
+    > 
     > ping www.google.com
+    >
     > ping 192.168.1.1
-- [df -h]
+- [df -h]()
     * Te muestra la configuración actual de las unidades de almacenamiento del sistema. 
-    Es un comando con un argumento (-h)
+- [cd "directorio"]()
+    * Accedemos al directorio
