@@ -30,6 +30,9 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Cancela el comando en ejecución</td>
         </tr>
         <tr>
+            <td colspan="2" align="center"></td>
+        </tr>
+        <tr>
             <td colspan="2" align="center">
                 COMANDOS SIN MÉTODOS Y SIN ARGUMENTOS
             </td>
@@ -51,8 +54,11 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Muestra el contenido del directorio que estamos</td>
         </tr>
         <tr>
+            <td colspan="2" align="center"></td>
+        </tr>
+        <tr>
             <td colspan="2" align="center">
-                COMANDOS ARGUMENTOS
+                COMANDOS CON ARGUMENTOS
             </td>
         </tr>
         <tr>
@@ -76,52 +82,66 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
             <td>Retrocedemos 2 directorios</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td colspan="2" align="center"></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                USUARIOS
+            </td>
+        </tr>
+        <tr>
+            <td>su -</td>
+            <td>Nos lleva al usuario de administrador ( require contraseña del sistema )</td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                COMANDOS PARA VISUALIZAR HARDWARE
+            </td>
+        </tr>
+        <tr>
+            <td>df -h</td>
+            <td>Muestra la configuración actual de las unidades de almacenamiento</td>
+        </tr>
+        <tr>
+            <td>free -m</td>
+            <td>Muestra el estado de la RAM</td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                INSTALAR PAQUETES CON "APT"
+            </td>
+        </tr>
+        <tr>
+            <td>apt search "nombre-paquete"</td>
+            <td>Busca la diponibilidad del paquete</td>
+        </tr>
+        <tr>
+            <td>apt install "nombre-paquete"</td>
+            <td>Instala el paquete requerido</td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                COMANDOS PARA VER ESTADO DEL SISTEMA
+            </td>
+        <tr>
+            <td>top</td>
+            <td>Muestra una tabla dinámica con los procesos ativos</td>
+        </tr>
+        <tr>
+            <td>htop</td>
+            <td>
+                Muestra una tabla dinámica con los proceso activos de forma detallada<br>
+                requiere --apt install htop
+            </td>
         </tr>
     </tbody>
 </table>
-
-
-### [Cambiar de usuario]()
-el usuario "root" es el usuario administrador del sistema por defecto
-```
-    su -
-    // 1. Nos va a pedir la contraseña con la que instalamos Linux
-    // 2. el prompt va a tener root@nombre-compu:~# (~# nos indica que somos administrador)
-```
-
-### [Comandos para visualizar Hardware]()
-
-```
-    df -h
-    // Te muestra la configuración actual de las unidades de almacenamiento del sistema. 
-```
-```
-    free -m
-    // Te muestra el estado de la RAM
-```
-
-### [Instalar paquetes con APT]()
-El comando apt nos sirve para buscar librerias que no temos instaladas en el Sistema
-```
-    apt search "nombre-paquete"
-    // Busca si el paquete esta diponible
-```
-    > Ej: apt search htop
-```
-    apt install "nombre-paqute"
-    // apt install htop
-```
-
-    
-### [Comandos para visualizar Sofware]()
-```
-    top
-    // Nos muestra dinamicamente todos los procesos activos
-```
-```
-    htop
-    // apt install htop
-    // Nos muestra dinamicamente todos los procesos activos de forma mas detallada
-```
