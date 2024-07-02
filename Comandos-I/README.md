@@ -2,7 +2,7 @@
 
 ![](comandos.jpg)
 
-###[Linux Documentation Comands](https://linux.die.net/)
+### [Linux Documentation Comands](https://linux.die.net/)
 
 - Interprete de Comandos ( Shell de Linux)
 Es un programa que se ejecuta siempre que un usuario se conecta al sistema.
