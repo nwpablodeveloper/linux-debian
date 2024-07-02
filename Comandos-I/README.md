@@ -19,7 +19,7 @@ Linux es Key sensitive, vamos a poder esciribir un comando siempre que este el s
 <table>
     <tbody>
         <tr>
-            <td colspan="2">Comandos importantes</td>
+            <td colspan="2" align="center">Comandos importantes</td>
         </tr>
         <tr>
             <td>Comando</td>
