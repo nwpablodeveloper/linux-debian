@@ -37,6 +37,7 @@ adminstrativos o de gestión del sistema
 - Su promt es: #
 
 
+
 2. Usuarios NORMALES
 - Se asignan a las personas o procesos que trabajan de forma habitual con Linux
 - Son creados por el usuario root
@@ -45,3 +46,23 @@ adminstrativos o de gestión del sistema
 - Acceden con Password
 - Su promt es: $
 
+3. Usuarios ESPECIALES
+- Son para ejecutar diversos procesos en el sistema. Ej.: bin, deamon, adm, lp, sync
+shutdown, mail, operator, squid, apache, etc.
+- También son llamados cuentas del sistema
+- Dependiendo de la cuenta tienen distintos previlegios de root
+- No se pueden iniciar sesión en estas cuentas, no requieren contraseña.
+- Se crean, por lo general, automáticamente al momento de la istalación de Linux o de 
+la Aplicación.
+- Suelen tener un ID entre 1 y 100
+
+
+### Particiones en Linux
+La partición se integra dentro de la estructura de directorios
+![particiones](particiones.jpg)
+
+### Directorios
+![directorios](directorios.jpg)
+
+### Contenido de los directorios instalados por defecto
+![directorios instalados](directorios-iniciales.jpg)
