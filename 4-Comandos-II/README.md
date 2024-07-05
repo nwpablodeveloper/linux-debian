@@ -1,6 +1,6 @@
 ## COMANDOS ii
 
-<table style="width:70%">
+<table>
     <tr>
         <td colspan="2">NAVEGAR POR LOS DIRECTORIO</td>
     </tr>
@@ -49,7 +49,7 @@
         <td>Entro desde la ruta relativa que me encuentro</td>
     </tr>
 </table>
-<table style="width:70%">
+<table>
     <tr>
         <td colspan="2">COMANDO BÁSICO IMPORTANTES</td>
     </tr>
@@ -62,16 +62,16 @@
         <td>Nos va a dar toda la info del comando "pwd"</td>
     </tr>
 </table>
-<table style="width:70%">
+<table>
     <tr>
-        <td colspan="2">COMANDO ls </td>
+        <td colspan="2">COMANDO ls ( Listar ) </td>
     </tr>
     <tr>
         <td>man ls</td>
         <td>Documentación para el comando ls</td>
     </tr>
     <tr>
-        <td>ls ( comando listar )</td>
+        <td>ls</td>
         <td>Muestra los directorios disponibles</td>
     </tr>
     <tr>
