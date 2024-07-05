@@ -42,7 +42,7 @@
             <td>Entramos al directorio</td>
         </tr>
         <tr>
-            <td>cd / (Ej.: cd/home/nombreUsuario/dir1/dir2)</td>
+            <td>cd / (Ej.: cd /home/nombreUsuario/dir1/dir2)</td>
             <td>Sin importar de donde me encuetre me meuvo a una ruta absoluta</td>
         </tr>
         <tr>
@@ -50,29 +50,64 @@
             <td>Entro desde la ruta relativa que me encuentro</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td colspan="2">
+                &nbsp;
+            </td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td colspan="2">COMANDO BÁSICO IMPORTANTES</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>man</td>
+            <td>Accedemos a toda la documentación de Linux</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
+            <td>man pwd</td>
+            <td>Nos va a dar toda la info del comando "pwd"</td>
         </tr>
         <tr>
             <td colspan="2">
                 &nbsp;
             </td>
+        </tr>
+        <tr>
+            <td colspan="2">COMANDO ls </td>
+        </tr>
+        <tr>
+            <td>man ls</td>
+            <td>Documentación para el comando ls</td>
+        </tr>
+        <tr>
+            <td>ls ( comando listar )</td>
+            <td>Muestra los directorios disponibles</td>
+        </tr>
+        <tr>
+            <td>ls -e</td>
+            <td>Mustra los directorios disponible de forma mas detallada</td>
+        </tr>
+        <tr>
+            <td>ls -a</td>
+            <td>Mustra tambien los directorios ocultos</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
