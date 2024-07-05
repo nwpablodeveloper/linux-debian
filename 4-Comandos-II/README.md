@@ -49,11 +49,8 @@
             <td>cd dir1/dir2/</td>
             <td>Entro desde la ruta relativa que me encuentro</td>
         </tr>
-        <tr>
-            <td colspan="2">
-                &nbsp;
-            </td>
-        </tr>
+    </table>
+    <table>
         <tr>
             <td colspan="2">COMANDO BÁSICO IMPORTANTES</td>
         </tr>
@@ -65,11 +62,8 @@
             <td>man pwd</td>
             <td>Nos va a dar toda la info del comando "pwd"</td>
         </tr>
-        <tr>
-            <td colspan="2">
-                &nbsp;
-            </td>
-        </tr>
+    </table>
+    <table>
         <tr>
             <td colspan="2">COMANDO ls </td>
         </tr>
@@ -90,28 +84,40 @@
             <td>Mustra tambien los directorios ocultos</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>ls -al</td>
+            <td>Mustra de forma detallada incluyendo a los directorios ocultos</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>ls -alh</td>
+            <td>Mustra de forma detallada y formatea el peso a la vista</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>ls -l</td>
+            <td>Mustra los directorios de forma detallada y ordenados alfabeticamente</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>ls -lr</td>
+            <td>Mustra los directorios de forma detallada y ordenados albaticamente Reverse</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>ls -ls</td>
+            <td>Muestra los directorios por tamaño</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>ls -lsh</td>
+            <td>Muestra los ficheros del mismo tamaño y por orden alfabetico</td>
+        </tr>
+        <tr>
+            <td>ls -l /tmp</td>
+            <td>listar el contenido del directorio "tmp"</td>
+        </tr>
+        <tr>
+            <td>ls -lt</td>
+            <td>Muestra los directorios del mas nuevo al mas viejo</td>
+        </tr>
+        <tr>
+            <td>ls -ltr</td>
+            <td>Muestra los directorios del mas viejo al mas nuevo</td>
         </tr>
     </body>
 </table>
