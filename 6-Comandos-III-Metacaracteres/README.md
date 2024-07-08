@@ -56,7 +56,7 @@
 
 ![](comando-ls.jpg)
 ```
-drwxr-xr-x 11 4096 jul 8 13:26
+drwxr-xr-x 11 veigadev veigadev 4096 jul 8 13:26
 
 Los primeros 9 caracteres identifican el tipo de permiso que tiene cada fichero
 
