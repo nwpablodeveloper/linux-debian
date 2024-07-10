@@ -29,8 +29,16 @@
         <td>Imprime en pantalla</td>
     </tr>
     <tr>
-        <td>echo directorio > file.txt</td>
-        <td>Escribe o sustituye un fichero</td>
+        <td>echo escribiendo archivo > file.txt</td>
+        <td>Escribe o sustituye el texto del fichero</td>
+    </tr>
+    <tr>
+        <td>cp "origen" "destino"</td>
+        <td>
+            nos permite copiar ficheros y directorios
+            <br>
+            Ej.: cp ruta/file1.txt ruta/file1-copia.txt    
+        </td>
     </tr>
     <tr>
         <td></td>
