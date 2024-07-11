@@ -33,7 +33,7 @@
         <td>Escribe o sustituye el texto del fichero</td>
     </tr>
     <tr>
-        <td>cp "origen" "destino"</td>
+        <td>cp "fichero-a-copiar" "nuevo-fichero"</td>
         <td>
             nos permite copiar ficheros y directorios
             <br>
@@ -41,7 +41,19 @@
         </td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>cp -i "fichero2" "fiechero-nuevo"</td>
+        <td>La -i nos va a preguntar si deseamos sobreescribir el archivo</td>
+    </tr>
+    <tr>
+        <td>cp f*.txt /dir</td>
+        <td>Copia todos los ficheros que empiezan "f" y los manda al /dir</td>
+    </tr>
+    <tr>
+        <td>cp -r "directorio-a-copiar" "nombre-nuevo-directorio-copiado"</td>
+        <td>Con "-r" nos permite copiar el directorio entero</td>
+    </tr>
+    <tr>
+        <td>cat "nombre-archivo"</td>
+        <td>Permite ver el contenido del fichero y no nos muestra en pantalla</td>
     </tr>
 </table>
