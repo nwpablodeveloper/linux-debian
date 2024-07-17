@@ -17,8 +17,8 @@
         <td>Mueve todos los ficheros txt que empiezan con ar</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>rm "nombre-fichero"</td>
+        <td>Elimina un fichero si es que tenes los permisos adecuados</td>
     </tr>
     <tr>
         <td></td>
