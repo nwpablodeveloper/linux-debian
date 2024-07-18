@@ -21,6 +21,10 @@
         <td>Elimina un fichero si es que tenes los permisos adecuados</td>
     </tr>
     <tr>
+        <td>rm -i *txt</td>
+        <td>-i nos pregunta si queres borar todos los ficheros .txt</td>
+    </tr>
+    <tr>
         <td></td>
         <td></td>
     </tr>
