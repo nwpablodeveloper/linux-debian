@@ -25,7 +25,15 @@
         <td>-i nos pregunta si queres borar todos los ficheros .txt</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>rm /dir/f*</td>
+        <td>Elimina todos los archivo sque empiezan con f</td>
+    </tr>
+    <tr>
+        <td>rmdir nombre-directorio</td>
+        <td>Elimina un directorio si es que esta vacio</td>
+    </tr>
+    <tr>
+        <td>rmdir nombre-directorio/*</td>
+        <td>Elimina el directorio poniedo /* </td>
     </tr>
 </table>
