@@ -36,4 +36,20 @@
         <td>rmdir nombre-directorio/*</td>
         <td>Elimina el directorio poniedo /* </td>
     </tr>
+    <tr>
+        <td>rm -r "nombre-directorio"</td>
+        <td>Borra el directorio con todo su contenido</td>
+    </tr>
+    <tr>
+        <td>man ls > manls.txt</td>
+        <td>Envia toda la documentación de ls a un txt</td>
+    </tr>
+    <tr>
+        <td>cat -n manls.txt</td>
+        <td>Me muestra el fichero con las lineas enumeradas</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
