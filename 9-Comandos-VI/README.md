@@ -41,8 +41,8 @@
         <td>Agrega el texto al final del fichero</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>less fichero.txt</td>
+        <td>Puedo ver linea a linea el fichero</td>
     </tr>
     <tr>
         <td></td>
