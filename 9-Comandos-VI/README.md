@@ -45,7 +45,11 @@
         <td>Puedo ver linea a linea el fichero</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>apt-get install tree</td>
+        <td>Instalación del paquete tree</td>
+    </tr>
+    <tr>
+        <td>tree </td>
+        <td>Nos muestra todas las jerarquias del directorio</td>
     </tr>
 </table>
