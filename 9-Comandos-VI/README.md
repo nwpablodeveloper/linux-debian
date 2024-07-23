@@ -52,4 +52,8 @@
         <td>tree </td>
         <td>Nos muestra todas las jerarquias del directorio</td>
     </tr>
+    <tr>
+        <td>who</td>
+        <td>Nos muestra los usuarios conectados</td>
+    </tr>
 </table>
