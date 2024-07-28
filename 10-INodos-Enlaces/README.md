@@ -25,7 +25,12 @@ Un INODO tiene la inforamción de METADATOS del fichero
         <td>Nos muestra el numero de INodo de cada fichero</td>
     </tr>
     <tr>
-        <td></td>
+        <td>ls -s "fichero" "linkSimbolico"</td>
         <td></td>
     </tr>
 </table>
+
+### Enlace Hard
+* ln nombreFichero.xxx nombreEnlaceHard.xxx
+* Ahora tenemos un fichero y un enlance que apuntan al mismo INODO
+![](enlace_hard.jpg)
