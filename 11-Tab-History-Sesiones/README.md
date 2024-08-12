@@ -1,19 +1,31 @@
-## TAB, HISTORY Y SESIONES
+## COMANDOS VII - du, df
 
 
 <table>
     <tr>
-        <td colspan="2">COMANDOS V - mv, rm, mvdir, cat</td>
+        <td colspan="2">COMANDOS VII - du, df</td>
     </tr>
     <tr>
-        <td colspan="2">cd /usr/bin</td>
+        <td colspan="2"></td>
     </tr>
     <tr>
-        <td>mv "nombre-fichero" /rutaDestino</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>mv ar*txt /RutaDestino</td>
-        <td>Mueve todos los ficheros txt que empiezan con ar</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>  
+        <td></td>
     </tr>
 </table>    
